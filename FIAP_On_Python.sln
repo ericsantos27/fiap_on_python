@@ -13,6 +13,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Cap_02_DecisaoComposta_2", 
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Cap_02_DecisaoComposta_3", "Cap_02_DecisaoComposta_4\Cap_02_DecisaoComposta_3.pyproj", "{FC1B18B2-DE2B-410A-9C5A-98FFCEB50D13}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Cap_02_Decisao_Encadeada", "Cap_02_Decisao_Encadeada\Cap_02_Decisao_Encadeada.pyproj", "{C05DBEFD-FF2E-4208-98CE-FB877DCAB3D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,8 @@ Global
 		{7D770C0A-7E7C-4C6C-99F4-190FC6D44875}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC1B18B2-DE2B-410A-9C5A-98FFCEB50D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FC1B18B2-DE2B-410A-9C5A-98FFCEB50D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C05DBEFD-FF2E-4208-98CE-FB877DCAB3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C05DBEFD-FF2E-4208-98CE-FB877DCAB3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
