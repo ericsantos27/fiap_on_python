@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Cap_02_Variáveis", "Cap_02_Variáveis\Cap_02_Variáveis.pyproj", "{F67F6E4F-637E-40F7-B59E-689D37D9B9D1}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Cap_02_Variáveis_2", "Cap_02_Variáveis_2\Cap_02_Variáveis_2.pyproj", "{1232C322-6B7A-4B62-BF35-A0F0E1236BB5}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Cap_02_DecisãoComposta", "Cap_02_DecisãoComposta\Cap_02_DecisãoComposta.pyproj", "{67D69F8A-1FC0-4091-9CB6-81984473FCD9}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Cap_02_DecisaoComposta_2", "Cap_02_DecisaoComposta_2\Cap_02_DecisaoComposta_2.pyproj", "{7D770C0A-7E7C-4C6C-99F4-190FC6D44875}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Cap_02_DecisaoComposta_3", "Cap_02_DecisaoComposta_4\Cap_02_DecisaoComposta_3.pyproj", "{FC1B18B2-DE2B-410A-9C5A-98FFCEB50D13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F67F6E4F-637E-40F7-B59E-689D37D9B9D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67F6E4F-637E-40F7-B59E-689D37D9B9D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1232C322-6B7A-4B62-BF35-A0F0E1236BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1232C322-6B7A-4B62-BF35-A0F0E1236BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D69F8A-1FC0-4091-9CB6-81984473FCD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D69F8A-1FC0-4091-9CB6-81984473FCD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D770C0A-7E7C-4C6C-99F4-190FC6D44875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D770C0A-7E7C-4C6C-99F4-190FC6D44875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC1B18B2-DE2B-410A-9C5A-98FFCEB50D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC1B18B2-DE2B-410A-9C5A-98FFCEB50D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C25C270-3F17-4069-92E2-EEBC81C6553E}
+	EndGlobalSection
+EndGlobal

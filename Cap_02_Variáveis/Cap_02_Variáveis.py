@@ -1,0 +1,12 @@
+name = input('Nome do funcionário: ')
+company = input('Nome da empresa: ')
+workersQty = int(input('Quantidade de funcionários: '))
+tuitionAVG = float(input('Valor médio de mensalidade: '))
+print('Funcionário: ' + name)
+print('Empresa: ' + company)
+print('Número de funcionários: ' + str(workersQty))
+print('Valor médio de mensalidade: ' + str(tuitionAVG))
+
+print('Tipo de dado da variável "name": ', type(name))
+print('Tipo de dado da variável "workersQty": ', type(workersQty))
+print('Tipo de dado da variável "TuitionAVG": ', type(tuitionAVG))

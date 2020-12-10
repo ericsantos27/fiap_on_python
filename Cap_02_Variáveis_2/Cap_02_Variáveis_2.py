@@ -1,0 +1,5 @@
+owner = input('Proprietário: ')
+user = input('Usuário: ')
+event = input('Evento: ')
+ticketValue = float(input('Valor da entrada: '))
+print('Declaro para o senhor ' + owner + ' que o senhor ' + user + ' esteve presente no evento ' + event + ' e gastou o valor de R$ ' + str(ticketValue) + ' com a entrada')
