@@ -19,6 +19,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Cap_02_Decisao_Encadeada_2"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Cap_02_Desafio_Decisao", "Cap_02_Desafio_Decisao\Cap_02_Desafio_Decisao.pyproj", "{39A45C8E-F435-43E3-958F-9223E273021E}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Cap_02_Decisao_For", "Cap_02_Decisao_For\Cap_02_Decisao_For.pyproj", "{2384920C-3CB9-44E3-B7B7-5B90FF2B1664}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,8 @@ Global
 		{379ECFC6-65CB-4B69-93FC-565CCA94E5D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39A45C8E-F435-43E3-958F-9223E273021E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{39A45C8E-F435-43E3-958F-9223E273021E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2384920C-3CB9-44E3-B7B7-5B90FF2B1664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2384920C-3CB9-44E3-B7B7-5B90FF2B1664}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
